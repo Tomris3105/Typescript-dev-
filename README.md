@@ -1,8 +1,6 @@
 # Typescript-dev-
 Typescript 3. Ödev Cevapları BGP201
 
-Bu bölümde amaç, istenen console.log çıktısını almak için doğru çalışan kodu yazmaktı.
-
 Soru 1: mergeArrays – İki farklı diziyi generic yapıyla birleştirdim.
 
 Soru 2: useVehicle – in operatörüyle Truck tipini ayıran type guard yazdım.
